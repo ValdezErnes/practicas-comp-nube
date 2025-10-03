@@ -40,7 +40,7 @@ class ListaPage extends StatelessWidget {
             leading: CircleAvatar(
               radius: 22.0,
               backgroundImage: NetworkImage(
-                'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png',
+                'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png',
               ),
             ),
             trailing: Icon(Icons.arrow_right),
